@@ -4,7 +4,7 @@
 A Python version of the classic "bottles of beer on the wall" programming
 example.
 
-By Guido van Rossum, demystified after a version by Fredrik Lundh.
+By Guido van Rossum, demystified after a version by Fredrik Lundh. Edited in 2020
 """
 
 import sys
